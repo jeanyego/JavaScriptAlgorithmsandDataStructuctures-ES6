@@ -1,1 +1,4 @@
-const magic = ()=> "new Date()";
+const magic = () => {
+  return new Date();
+}
+
